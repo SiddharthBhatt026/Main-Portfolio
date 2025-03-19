@@ -84,8 +84,8 @@ Don't forget to give the project a star! Thanks again!
 
 Feel free to reach out if you have any questions or suggestions:
 
-- Email: mail.sanajitjana@gmail.com
-- LinkedIn: [Sanajit Jana](https://www.linkedin.com/in/sanajitjana01)
+- Email: siddharthbhatt004@gmail.com
+- LinkedIn: [Siddharth Bhatt](www.linkedin.com/in/siddharthbhatt1)
 - Portfolio: [Latest Portfolio](https://sanajitjana.github.io)
 
 Thank you for visiting my portfolio!
