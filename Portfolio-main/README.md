@@ -29,7 +29,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sanajitjana/React-Portfolio.git
+   git clone https://github.com/SiddharthGits/Main-Portfolio
    cd React-Portfolio
 
    ```
@@ -86,7 +86,7 @@ Feel free to reach out if you have any questions or suggestions:
 
 - Email: siddharthbhatt004@gmail.com
 - LinkedIn: [Siddharth Bhatt](www.linkedin.com/in/siddharthbhatt1)
-- Portfolio: [Latest Portfolio](https://sanajitjana.github.io)
+- Portfolio: [Latest Portfolio](https://github.com/SiddharthGits/Main-Portfolio)
 
 Thank you for visiting my portfolio!
 
@@ -94,6 +94,3 @@ Thank you for visiting my portfolio!
 
 This project is licensed under the MIT License. See the LICENSE file for details. ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## Preview
-
-![image](https://github.com/sanajitjana/React-Portfolio/assets/76105799/ce8ca83f-7d48-4690-96e4-90ac0123870f)
