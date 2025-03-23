@@ -29,7 +29,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/SiddharthGits/Main-Portfolio
+   git clone https://github.com/SiddharthBhatt026/Main-Portfolio/tree/main/Portfolio-main
    cd React-Portfolio
 
    ```
